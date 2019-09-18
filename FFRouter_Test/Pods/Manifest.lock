@@ -1,0 +1,16 @@
+PODS:
+  - FFRouter (1.1.1)
+
+DEPENDENCIES:
+  - FFRouter
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - FFRouter
+
+SPEC CHECKSUMS:
+  FFRouter: dfda137b8f6817ca92dc9a1151727449548abfd3
+
+PODFILE CHECKSUM: cc0c74ae7805d0198e8885a5e4d00908159fd084
+
+COCOAPODS: 1.7.3
